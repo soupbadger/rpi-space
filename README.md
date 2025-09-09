@@ -124,4 +124,7 @@ Touchscreen functionality can be added back in to allow swiping between panels a
 ![Error Handling](screenshots/error.png)
 ### No City Nearby
 ![No City Nearby](screenshots/ocean.png)
-
+### Short City Name (auto sizing)
+![Short City](screenshots/short_city.png)
+### Long City Name (auto sizing)
+![Long City](screenshots/long_city.png)
