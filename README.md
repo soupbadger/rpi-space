@@ -18,7 +18,7 @@ A full-screen Raspberry Pi dashboard that displays the **International Space Sta
 * **Hardware**
 
   * Raspberry Pi 4
-  * 4-inch **Miuzei HDMI Display-C**
+  * [4-inch **Miuzei HDMI Display-C**](https://www.lcdwiki.com/4inch_HDMI_Display-C)
 
     * Controller: **XPT2046**
     * Drivers downloaded via [LCD-show.tar.gz](http://www.lcdwiki.com/res/RaspDriver/LCD-show.tar.gz)
