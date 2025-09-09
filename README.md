@@ -2,8 +2,6 @@
 
 A full-screen Raspberry Pi dashboard that displays the **International Space Station’s (ISS) real-time location** on a world map. Shows latitude, longitude, and the nearest city. Developed entirely via SSH and extensively debugged with Gemini AI assistance. This was a **learning project** focused on APIs, Python programming, and working with Raspberry Pi-like single-board computers.
 
-![ISS Tracker Screenshot](https://example.com/iss-tracker-screenshot.png)
-
 ---
 
 ## Features
@@ -122,8 +120,8 @@ Touchscreen functionality can be added back in to allow swiping between panels a
 
 ## Screenshots
 
-# Error Handling
+### Error Handling
 ![Error Handling](screenshots/error.png)
-# No City Nearby
+### No City Nearby
 ![No City Nearby](screenshots/ocean.png)
 
