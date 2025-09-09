@@ -122,6 +122,6 @@ Touchscreen functionality can be added back in to allow swiping between panels a
 
 ## Screenshots
 
-![ISS Tracker Screenshot 1](path/to/screenshot1.png)
-![ISS Tracker Screenshot 2](path/to/screenshot2.png)
+![Error Handling](screenshots/error.png)
+![No City Nearby](screenshots/ocean.png)
 
