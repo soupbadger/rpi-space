@@ -122,6 +122,8 @@ Touchscreen functionality can be added back in to allow swiping between panels a
 
 ## Screenshots
 
+# Error Handling
 ![Error Handling](screenshots/error.png)
+# No City Nearby
 ![No City Nearby](screenshots/ocean.png)
 
