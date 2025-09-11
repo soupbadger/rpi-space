@@ -112,7 +112,6 @@ The touchscreen may be reused for additional space-related displays in the futur
 * Real-time **solar activity monitoring**.
 * **Satellite tracking** overlays beyond the ISS.
 * **Custom astronomy dashboards** for celestial events and passes.
-* Interactive **space weather alerts**.
 
 Touchscreen functionality can be added back in to allow swiping between panels and interactive controls without affecting the existing ISS display.
 
@@ -128,3 +127,16 @@ Touchscreen functionality can be added back in to allow swiping between panels a
 ![Short City](screenshots/short_city.png)
 ### Long City Name (auto sizing)
 ![Long City](screenshots/long_city.png)
+
+---
+
+## Acknowledgements
+
+Assistance with coding and Python scripting was obtained from AI tools including:
+
+- **ChatGPT (GPT-5-mini)**
+- **Gemini (2.5 Flash)**
+- **Claude (Sonnet 4)** — provided the most accurate and complete guidance
+ 
+
+All code was actively developed and refined with human oversight — issues were identified and corrected during the process. 
