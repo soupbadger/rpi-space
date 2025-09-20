@@ -59,7 +59,7 @@ A full-screen Raspberry Pi dashboard that displays the **International Space Sta
 4. Set up the touchscreen:
 
    ```bash
-   wget http://www.lcdwiki.com/res/RaspDriver/LCD-show.tar.gz
+   wget [http://www.lcdwiki.com/res/RaspDriver/LCD-show.tar.gz](http://www.lcdwiki.com/res/RaspDriver/LCD-show.tar.gz)
    tar -xvzf LCD-show.tar.gz
    cd LCD-show
    sudo ./MPI4008-show
@@ -105,15 +105,14 @@ A full-screen Raspberry Pi dashboard that displays the **International Space Sta
 
 ---
 
-## Future Touchscreen Plans
+## Future Development: An Astronomy Dashboard
 
-The touchscreen may be reused for additional space-related displays in the future, including:
+The foundation of this project is ideal for expanding into a multi-purpose astronomy dashboard. Future plans include:
 
-* Real-time **solar activity monitoring**.
-* **Satellite tracking** overlays beyond the ISS.
-* **Custom astronomy dashboards** for celestial events and passes.
-
-Touchscreen functionality can be added back in to allow swiping between panels and interactive controls without affecting the existing ISS display.
+* **Real-Time Solar Monitoring**: A new panel to display live data on solar flares, sunspot activity, and geomagnetic storm predictions.
+* **Expanded Satellite Tracking**: Adding the ability to track other major satellites, like the Hubble Space Telescope or Starlink constellations.
+* **Celestial Event Calendar**: A dedicated screen for upcoming events like meteor showers, eclipses, and planetary conjunctions, with countdown timers.
+* **Local Sky Passes**: An interactive feature to predict and display visible passes of the ISS and other satellites for the user's specific location.
 
 ---
 
@@ -137,6 +136,5 @@ Assistance with coding and Python scripting was obtained from AI tools including
 - **ChatGPT (GPT-5-mini)**
 - **Gemini (2.5 Flash)**
 - **Claude (Sonnet 4)** — provided the most accurate and complete guidance
- 
 
-All code was actively developed and refined with human oversight — issues were identified and corrected during the process. 
+All code was actively developed and refined with human oversight — issues were identified and corrected during the process.
